@@ -64,62 +64,62 @@ body{background:#000}
       <rect x="0" y="0" width="100" height="100" fill="url(#gradient)" />
     </mask>
     <g id="letters1">
-      <text y="-47" transform="rotate(0)">Anti</text>
-      <text y="-47" transform="rotate(30)">Adverse</text>
-      <text y="-47" transform="rotate(48)">Pessimist</text>
-      <text y="-47" transform="rotate(68)">Outcast</text>
-      <text y="-47" transform="rotate(87)">Contrary</text>
-      <text y="-47" transform="rotate(106)">Opposing</text>
-      <text y="-47" transform="rotate(123)">Resisting</text>
-      <text y="-47" transform="rotate(143)">Against</text>
-      <text y="-47" transform="rotate(160)">Antagonist</text>
-      <text y="-47" transform="rotate(193)">Counteractive</text>
-      <text y="-47" transform="rotate(210)">Cynical</text>
-      <text y="-47" transform="rotate(225)">Cold</text>
-      <text y="-47" transform="rotate(245)">Unintersted</text>
-      <text y="-47" transform="rotate(270)">Apathetic</text>
-      <text y="-47" transform="rotate(300)">Calm</text>
-      <text y="-47" transform="rotate(313)">Reserved</text>
-      <text y="-47" transform="rotate(347)">Dark</text>
+      <text y="-47" transform="rotate(0)">SASA>
+      <text y="-47" transform="rotate(30)">SALE</text>
+      <text y="-47" transform="rotate(48)">SASA</text>
+      <text y="-47" transform="rotate(68)">SALE</text>
+      <text y="-47" transform="rotate(87)">SASA</text>
+      <text y="-47" transform="rotate(106)">SALE</text>
+      <text y="-47" transform="rotate(123)">SASA</text>
+      <text y="-47" transform="rotate(143)">SALE</text>
+      <text y="-47" transform="rotate(160)">SASA</text>
+      <text y="-47" transform="rotate(193)">SALE</text>
+      <text y="-47" transform="rotate(210)">SASA</text>
+      <text y="-47" transform="rotate(225)">SALE</text>
+      <text y="-47" transform="rotate(245)">SASA</text>
+      <text y="-47" transform="rotate(270)">SALE</text>
+      <text y="-47" transform="rotate(300)">SASA</text>
+      <text y="-47" transform="rotate(313)">SALE</text>
+      <text y="-47" transform="rotate(347)">SASA</text>
     </g>
     <g id="letters2">
-      <text y="-36" transform="rotate(15)">Dark</text>
-      <text y="-36" transform="rotate(37)">Reserved</text>
-      <text y="-36" transform="rotate(57)">Calm</text>
-      <text y="-36" transform="rotate(77)">Apathetic</text>
-      <text y="-36" transform="rotate(101)">Uninterested</text>
-      <text y="-36" transform="rotate(136)">Cold</text>
-      <text y="-36" transform="rotate(163)">Cynical</text>
-      <text y="-36" transform="rotate(195)">Counteractive</text>
-      <text y="-36" transform="rotate(225)">Antagonist</text>
-      <text y="-36" transform="rotate(255)">Against</text>
-      <text y="-36" transform="rotate(280)">Resisting</text>
-      <text y="-36" transform="rotate(315)">Opposing</text>
-      <text y="-36" transform="rotate(335)">Contrary</text>
+      <text y="-36" transform="rotate(15)">SALE</text>
+      <text y="-36" transform="rotate(37)">SASA</text>
+      <text y="-36" transform="rotate(57)">SALE</text>
+      <text y="-36" transform="rotate(77)">SASA</text>
+      <text y="-36" transform="rotate(101)">SALE</text>
+      <text y="-36" transform="rotate(136)">SASA</text>
+      <text y="-36" transform="rotate(163)">SALE</text>
+      <text y="-36" transform="rotate(195)">SASA</text>
+      <text y="-36" transform="rotate(225)">SALE</text>
+      <text y="-36" transform="rotate(255)">SASA</text>
+      <text y="-36" transform="rotate(280)">SALE</text>
+      <text y="-36" transform="rotate(315)">SASA</text>
+      <text y="-36" transform="rotate(335)">SALE</text>
     </g>
     <g id="letters3">
-      <text y="-28" transform="rotate(25)">Adverse</text>
-      <text y="-28" transform="rotate(43)">Outcast</text>
+      <text y="-28" transform="rotate(25)">SASA</text>
+      <text y="-28" transform="rotate(43)">SALE</text>
       <text y="-28" transform="rotate(97)">Opposing</text>
-      <text y="-28" transform="rotate(136)">Against</text>
-      <text y="-28" transform="rotate(169)">Counteractive</text>
-      <text y="-28" transform="rotate(205)">Cold</text>
-      <text y="-28" transform="rotate(245)">Apathetic</text>
-      <text y="-28" transform="rotate(284)">Reserved</text>
-      <text y="-28" transform="rotate(325)">Dark</text>
-      <text y="-28" transform="rotate(355)">Calm</text>
+      <text y="-28" transform="rotate(136)">SASA</text>
+      <text y="-28" transform="rotate(169)">SALE</text>
+      <text y="-28" transform="rotate(205)">SASA</text>
+      <text y="-28" transform="rotate(245)">SALE</text>
+      <text y="-28" transform="rotate(284)">SASA</text>
+      <text y="-28" transform="rotate(325)">SALE</text>
+      <text y="-28" transform="rotate(355)">SASA</text>
     </g>
     <g id="letters4">
-      <text y="-20" transform="rotate(25)">Outcast</text>
-      <text y="-20" transform="rotate(47)">Against</text>
-      <text y="-20" transform="rotate(87)">Cold</text>
-      <text y="-20" transform="rotate(106)">Reserved</text>
-      <text y="-20" transform="rotate(143)">Dark</text>
-      <text y="-20" transform="rotate(183)">Calm</text>
-      <text y="-20" transform="rotate(245)">Adverse</text>
-      <text y="-20" transform="rotate(270)">Opposing</text>
-      <text y="-20" transform="rotate(310)">Counteractive</text>
-      <text y="-20" transform="rotate(355)">Apathetic</text>
+      <text y="-20" transform="rotate(25)">SALE</text>
+      <text y="-20" transform="rotate(47)">SASA</text>
+      <text y="-20" transform="rotate(87)">SALE</text>
+      <text y="-20" transform="rotate(106)">RSASA</text>
+      <text y="-20" transform="rotate(143)">SALE</text>
+      <text y="-20" transform="rotate(183)">SASA</text>
+      <text y="-20" transform="rotate(245)">SALE</text>
+      <text y="-20" transform="rotate(270)">SASA</text>
+      <text y="-20" transform="rotate(310)">SALE</text>
+      <text y="-20" transform="rotate(355)">SASA</text>
     </g>
   </defs>
   <g fill="red" opacity="0.3">
